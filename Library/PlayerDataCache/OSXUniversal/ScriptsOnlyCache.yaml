@@ -110,6 +110,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 91
@@ -190,6 +194,10 @@ ScriptsOnlyBuild:
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
@@ -272,6 +280,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 91
@@ -352,6 +364,10 @@ ScriptsOnlyBuild:
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
@@ -434,6 +450,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 91
@@ -514,6 +534,10 @@ ScriptsOnlyBuild:
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
@@ -596,6 +620,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 91
@@ -677,6 +705,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 91
@@ -757,6 +789,10 @@ ScriptsOnlyBuild:
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
@@ -1443,4 +1479,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level09.unity
   - Assets/Scenes/Level10.unity
   - Assets/Scenes/Credits.unity
-  playerPath: /home/sage/unity/New Unity Project/Builds/Mac/Cubersome.app
+  playerPath: /home/sage/unity/Cubersome/Builds/Mac/Cubersome.app
